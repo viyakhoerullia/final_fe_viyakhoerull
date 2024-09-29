@@ -1,0 +1,15 @@
+.overview-section {
+  padding: 4rem 0;
+}
+
+.overview-section h2 {
+  font-size: 2rem;
+  color: #2d3748;
+}
+
+.overview-section p {
+  color: #4a5568;
+  text-align: center;
+  margin-top: 1rem;
+  max-width: 700px;
+}

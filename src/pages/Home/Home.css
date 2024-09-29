@@ -1,0 +1,26 @@
+.home-section {
+  background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+}
+
+.home-section h1 {
+  font-size: 2.5rem;
+  color: #2d3748;
+}
+
+.home-section p {
+  margin-top: 1rem;
+  color: #4a5568;
+}
+
+.home-section a {
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #c94692;
+  color: #fff;
+  border-radius: 9999px;
+  transition: background-color 0.3s ease;
+}
+
+.home-section a:hover {
+  background-color: #ac65e6;
+}

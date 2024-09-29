@@ -1,0 +1,21 @@
+.skills-section {
+  padding: 4rem 0;
+  background-color: #f7fafc;
+}
+
+.skills-section h2 {
+  font-size: 2rem;
+  color: #2d3748;
+}
+
+.skills-section h3 {
+  font-size: 1.5rem;
+  color: #4a5568;
+}
+
+.skills-section ul {
+  margin-top: 1rem;
+  color: #718096;
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
